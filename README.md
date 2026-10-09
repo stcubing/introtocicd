@@ -1,6 +1,6 @@
 # introtocicd
 Resources for the Progsoc Intro to CI/CD Workshop
-ksdjlakdjsakldjsa;lk
+ksdjlakdjsakldjsa;lkasd
 A 90-minute, beginner-friendly workshop. You'll learn what CI/CD is and why teams use it, then practise on a real GitHub Actions pipeline: break it on purpose, fix it, and finally make it deploy a live website.
 
 No previous CI/CD experience needed.
